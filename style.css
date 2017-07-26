@@ -60,6 +60,13 @@ a:hover {
   width : 250px;
 }
 
+#banner{
+background-image: /*url("image/wagon.png")*/;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
 .list-inline > li {
   display: inline-block;
   padding: 0px 20px;
